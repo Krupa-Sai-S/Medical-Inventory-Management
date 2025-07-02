@@ -1,4 +1,4 @@
-# 🏥 Medical Inventory Management System
+# Medical Inventory Management System
 
 ##  Project Overview
 
